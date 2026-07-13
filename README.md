@@ -335,7 +335,7 @@ This project is intended for educational and portfolio use. For production deplo
 
 ## 👨‍💻 Author
 
-Made with ❤️ by Shounak.
+Made with ❤️ by Shounak & Hoshang
 
 ⭐ If this project helped you, consider starring the repository.
 
